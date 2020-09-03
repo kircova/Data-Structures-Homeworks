@@ -1,0 +1,19 @@
+﻿Build started 7/25/2020 6:13:30 PM.
+     1>Project "D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2.1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt yusufhan_kircova_yusufhan_hw2_main.cpp
+         yusufhan_kircova_yusufhan_hw2_main.cpp
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2_main.cpp(35): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2_main.cpp(48): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2_main.cpp(60): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2_main.cpp(96): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2_main.cpp(160): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw2.1\Debug\yusufhan_kircova_yusufhan_hw2.1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw2.1\Debug\yusufhan_kircova_yusufhan_hw2.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw2.1\Debug\yusufhan_kircova_yusufhan_hw2.1.lib" /MACHINE:X86 Debug\AVLTree.obj
+         Debug\yusufhan_kircova_yusufhan_hw2_main.obj
+         yusufhan_kircova_yusufhan_hw2.1.vcxproj -> D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw2.1\Debug\yusufhan_kircova_yusufhan_hw2.1.exe
+     1>Done Building Project "D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2.1\yusufhan_kircova_yusufhan_hw2.1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99
