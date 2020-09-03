@@ -1,0 +1,128 @@
+﻿Build started 8/15/2020 7:34:15 PM.
+     1>Project "D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt yusufhan_kircova_yusufhan_hw4.cpp
+         yusufhan_kircova_yusufhan_hw4.cpp
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(264): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(277): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(290): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(303): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(323): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(376): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(420): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(453): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(462): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(503): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(560): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(621): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(80): warning C4018: '<' : signed/unsigned mismatch
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(79) : while compiling class template member function 'double HashTable<Key,HashedObj>::getLoadFactor(void)'
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(444) : see reference to function template instantiation 'double HashTable<Key,HashedObj>::getLoadFactor(void)' being compiled
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(359) : see reference to class template instantiation 'HashTable<Key,HashedObj>' being compiled
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(79): warning C4018: '<' : signed/unsigned mismatch
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(712) : see reference to function template instantiation 'void insertionSort<WordItem>(std::vector<_Ty> &)' being compiled
+                 with
+                 [
+                     _Ty=WordItem
+                 ]
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(103): warning C4018: '<' : signed/unsigned mismatch
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(102) : while compiling class template member function 'void HashTable<Key,HashedObj>::makeEmpty(void)'
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(112) : see reference to function template instantiation 'void HashTable<Key,HashedObj>::makeEmpty(void)' being compiled
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(110) : while compiling class template member function 'HashTable<Key,HashedObj>::HashTable(const Key &,const HashedObj &,int)'
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.cpp(359) : see reference to function template instantiation 'HashTable<Key,HashedObj>::HashTable(const Key &,const HashedObj &,int)' being compiled
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(124): warning C4018: '>=' : signed/unsigned mismatch
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(117) : while compiling class template member function 'int HashTable<Key,HashedObj>::findPos(const Key &) const'
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(149) : see reference to function template instantiation 'int HashTable<Key,HashedObj>::findPos(const Key &) const' being compiled
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(175): warning C4018: '<' : signed/unsigned mismatch
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(170) : while compiling class template member function 'void HashTable<Key,HashedObj>::rehash(void)'
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(165) : see reference to function template instantiation 'void HashTable<Key,HashedObj>::rehash(void)' being compiled
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(182): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(93): warning C4018: '<' : signed/unsigned mismatch
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(91) : while compiling class template member function 'int HashTable<Key,HashedObj>::hash(const Key &,int) const'
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(119) : see reference to function template instantiation 'int HashTable<Key,HashedObj>::hash(const Key &,int) const' being compiled
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(102) : while compiling class template member function 'void HashTable<Key,HashedObj>::makeEmpty(void)'
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+                 d:\ykirc\onedrive\documents\visual studio 2012\projects\0_cs_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\hashtable.h(112) : see reference to function template instantiation 'void HashTable<Key,HashedObj>::makeEmpty(void)' being compiled
+                 with
+                 [
+                     Key=std::string,
+                     HashedObj=WordItem
+                 ]
+       Link:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw4\Debug\yusufhan_kircova_yusufhan_hw4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw4\Debug\yusufhan_kircova_yusufhan_hw4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw4\Debug\yusufhan_kircova_yusufhan_hw4.lib" /MACHINE:X86 Debug\BinarySearchTree.obj
+         Debug\yusufhan_kircova_yusufhan_hw4.obj
+         yusufhan_kircova_yusufhan_hw4.vcxproj -> D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw4\Debug\yusufhan_kircova_yusufhan_hw4.exe
+     1>Done Building Project "D:\ykirc\OneDrive\Documents\Visual Studio 2012\Projects\0_CS_300\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4\yusufhan_kircova_yusufhan_hw4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.95
