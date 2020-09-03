@@ -1,0 +1,9 @@
+Sample Input Files Which was used to test my Hash
+a-
+a.
+ad
+a!
+b
+c
+as
+a'
